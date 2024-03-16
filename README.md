@@ -61,7 +61,9 @@ PCB Board is developed based on below given overview of the schematic. So let's 
 <details>
  <summary>
    Get familiar with open-source EDA Tool (OpenLANE) </summary>  
-</details>
+</details>  
+
+- **Conclusion:**
 
 ## Day 2: Good & bad Floorplanning and Introduction to Standard Cells  
 <details>
@@ -81,6 +83,8 @@ PCB Board is developed based on below given overview of the schematic. So let's 
    General timing characterization parameters </summary>  
 </details>
 
+- **Conclusion:**
+
 ## Day 3: Design library cell using Magic Layout and ngspice characterization
 <details>
  <summary>
@@ -94,6 +98,8 @@ PCB Board is developed based on below given overview of the schematic. So let's 
  <summary>
     Sky130 Tech File Labs </summary>  
 </details>
+
+- **Conclusion:**
 
 ## Day 4: Pre-layout timing analysis and importance of good clock tree 
 <details>
@@ -113,6 +119,8 @@ PCB Board is developed based on below given overview of the schematic. So let's 
   Timing analysis with real clocks using openSTA </summary>  
 </details>
 
+- **Conclusion:**
+
 ## Day 5: Final steps for RTL2GDS using tritonRoute and openSTA
 <details>
  <summary>
@@ -128,3 +136,4 @@ PCB Board is developed based on below given overview of the schematic. So let's 
 </details>
 <details>
 
+- **Conclusion**
