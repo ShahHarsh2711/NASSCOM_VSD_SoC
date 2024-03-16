@@ -24,6 +24,7 @@
   That's where the first step of ASIC flow start, that is "Specification". That's where the role of architecture engineer come into the picture. The job of the architecture engineer is to create interface based on specification. And based on interface, the RTL code is written by using HDL language.
   Below Image is Illustrate the overview of complete ASIC design which is devided in 3 parts.  
 ![image](https://github.com/ShahHarsh2711/NASSCOM_VSD_SoC/assets/100216184/5aa840a2-efb3-4b6e-adc1-f6b9995c5ed2)
+![image](https://github.com/ShahHarsh2711/NASSCOM_VSD_SoC/assets/100216184/2838b479-4c2f-434c-ba08-6b4d98c59cf2)
 
 </details>  
 <details>
@@ -41,5 +42,6 @@
 ![image](https://github.com/ShahHarsh2711/NASSCOM_VSD_SoC/assets/100216184/8d021aa6-86cd-475e-ba69-b7ea4c211714)
 ![image](https://github.com/ShahHarsh2711/NASSCOM_VSD_SoC/assets/100216184/7c22962a-9fb4-427a-8dde-090206076aef)
 ![image](https://github.com/ShahHarsh2711/NASSCOM_VSD_SoC/assets/100216184/72b6351a-e529-4564-904f-a31d9e0be754)
+![image](https://github.com/ShahHarsh2711/NASSCOM_VSD_SoC/assets/100216184/98dbcf64-2776-4e18-a53c-21c8b029f926)
 
 </details>
