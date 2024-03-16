@@ -52,14 +52,16 @@
   - **Die**:
   - **Pads**:
   - **Core**:
-    - In the core area all standard cells, macros and IP's are placed. The given below image illustrate that.  
+    - In the core area all standard cells, macros and IP's are placed. The given below image illustrate that.
+  
 ![image](https://github.com/ShahHarsh2711/NASSCOM_VSD_SoC/assets/100216184/72b6351a-e529-4564-904f-a31d9e0be754)
  - **Foundary IP's**:
  - **Macros**:
  - The basic process of creating macros or IP's are starting from specification to the layout of the module followed by RTL code, which is written in HDL Language.
  - The below given image shows the basic overview of the ASIC process.
 ![image](https://github.com/ShahHarsh2711/NASSCOM_VSD_SoC/assets/100216184/98dbcf64-2776-4e18-a53c-21c8b029f926)  
-</details>
+</details>  
+
 ![image](https://github.com/ShahHarsh2711/NASSCOM_VSD_SoC/assets/100216184/b5161ad3-6541-4ec9-8f47-afd1003c0e9c)
 
 
