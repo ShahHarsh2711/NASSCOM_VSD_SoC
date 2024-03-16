@@ -33,26 +33,26 @@
 PCB Board is developed based on below given overview of the schematic. So let's dig one step deep into the hardware.
 ![image](https://github.com/ShahHarsh2711/NASSCOM_VSD_SoC/assets/100216184/909bf4e1-7449-4773-8889-1428c9c1bea8)
 - As we can see that, Processor/SoC is the center of the all componets which communicationg with other components.  
-- So, Let's try to see and understand the IC.
-![image](https://github.com/ShahHarsh2711/NASSCOM_VSD_SoC/assets/100216184/b5a5646e-f1f8-4197-a755-51e2b9817e25)  
+- So, Let's try to see and understand the IC.  
+ ![image](https://github.com/ShahHarsh2711/NASSCOM_VSD_SoC/assets/100216184/b5a5646e-f1f8-4197-a755-51e2b9817e25)  
 - Above image is the shows the outer package with it's size and type of the IC.
 - **QFN-48** is the type of IC Package and **7mm X 7mm** is the size of IC.
 - That's where the role of Physical design engineer come into the picture, who decides the type of package and size of the IC.
 - That's what the end result/product that VLSI Industry are producing. That's where the complete VLSI ecosystem are build to produce that IC.
 - Around the IC, the Input &amp; Output pins are their.
-- But, Inside the package the chip/die is placed in the center of the package and the connection of I/O Pins of IC with Internal pins of chip/Die is shown in below image.
-![image](https://github.com/ShahHarsh2711/NASSCOM_VSD_SoC/assets/100216184/8d021aa6-86cd-475e-ba69-b7ea4c211714)
-- Let's dig one step more into the deep. We can see as below image, which shows the internal structure of chip/Die.
-![image](https://github.com/ShahHarsh2711/NASSCOM_VSD_SoC/assets/100216184/7c22962a-9fb4-427a-8dde-090206076aef)
+- But, Inside the package the chip/die is placed in the center of the package and the connection of I/O Pins of IC with Internal pins of chip/Die is shown in below image.  
+ ![image](https://github.com/ShahHarsh2711/NASSCOM_VSD_SoC/assets/100216184/8d021aa6-86cd-475e-ba69-b7ea4c211714)
+- Let's dig one step more into the deep. We can see as below image, which shows the internal structure of chip/Die.  
+ ![image](https://github.com/ShahHarsh2711/NASSCOM_VSD_SoC/assets/100216184/7c22962a-9fb4-427a-8dde-090206076aef)
 - As we can see that, their are majorly 3 types of area is exist on the chip
   - **Die**:
   - **Pads**:
   - **Core**:
     - In the core area all standard cells, macros and IP's are placed. The given below image illustrate that.
-![image](https://github.com/ShahHarsh2711/NASSCOM_VSD_SoC/assets/100216184/72b6351a-e529-4564-904f-a31d9e0be754)
+ ![image](https://github.com/ShahHarsh2711/NASSCOM_VSD_SoC/assets/100216184/72b6351a-e529-4564-904f-a31d9e0be754)
  - **Foundary IP's**:
  - **Macros**:
-![image](https://github.com/ShahHarsh2711/NASSCOM_VSD_SoC/assets/100216184/b5161ad3-6541-4ec9-8f47-afd1003c0e9c)
+ ![image](https://github.com/ShahHarsh2711/NASSCOM_VSD_SoC/assets/100216184/b5161ad3-6541-4ec9-8f47-afd1003c0e9c)
 </details>  
 
 
