@@ -81,7 +81,7 @@ PCB Board is developed based on below given overview of the schematic. So let's 
    Get familiar with open-source EDA Tool (OpenLANE) </summary>  
 </details>
 
-## Day 3: Good & bad Floorplanning and Introduction to Standard Cells  
+## Day 3: Design library cell using Magic Layout and ngspice characterization
 <details>
  <summary>
    Get familiar with open-source EDA Tool (OpenLANE) </summary>  
@@ -95,7 +95,7 @@ PCB Board is developed based on below given overview of the schematic. So let's 
    Get familiar with open-source EDA Tool (OpenLANE) </summary>  
 </details>
 
-## Day 4: Good & bad Floorplanning and Introduction to Standard Cells  
+## Day 4: Pre-layout timing analysis and importance of good clock tree 
 <details>
  <summary>
    Get familiar with open-source EDA Tool (OpenLANE) </summary>  
@@ -118,7 +118,7 @@ PCB Board is developed based on below given overview of the schematic. So let's 
 </details>
 
 
-## Day 5: Good & bad Floorplanning and Introduction to Standard Cells  
+## Day 5: Final steps for RTL2GDS using tritonRoute and openSTA
 <details>
  <summary>
    Get familiar with open-source EDA Tool (OpenLANE) </summary>  
