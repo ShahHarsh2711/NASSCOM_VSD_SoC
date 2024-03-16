@@ -43,5 +43,6 @@
 ![image](https://github.com/ShahHarsh2711/NASSCOM_VSD_SoC/assets/100216184/7c22962a-9fb4-427a-8dde-090206076aef)
 ![image](https://github.com/ShahHarsh2711/NASSCOM_VSD_SoC/assets/100216184/72b6351a-e529-4564-904f-a31d9e0be754)
 ![image](https://github.com/ShahHarsh2711/NASSCOM_VSD_SoC/assets/100216184/98dbcf64-2776-4e18-a53c-21c8b029f926)
+![image](https://github.com/ShahHarsh2711/NASSCOM_VSD_SoC/assets/100216184/b5161ad3-6541-4ec9-8f47-afd1003c0e9c)
 
 </details>
