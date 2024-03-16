@@ -50,10 +50,11 @@ PCB Board is developed based on below given overview of the schematic. So let's 
   - **Pads**:
   - **Core**:
     - In the core area all standard cells, macros and IP's are placed. The given below image illustrate that.
-  ![image](https://github.com/ShahHarsh2711/NASSCOM_VSD_SoC/assets/100216184/72b6351a-e529-4564-904f-a31d9e0be754)
+![image](https://github.com/ShahHarsh2711/NASSCOM_VSD_SoC/assets/100216184/72b6351a-e529-4564-904f-a31d9e0be754)
  - **Foundary IP's**:
  - **Macros**:
-  ![image](https://github.com/ShahHarsh2711/NASSCOM_VSD_SoC/assets/100216184/b5161ad3-6541-4ec9-8f47-afd1003c0e9c)
+
+![image](https://github.com/ShahHarsh2711/NASSCOM_VSD_SoC/assets/100216184/b5161ad3-6541-4ec9-8f47-afd1003c0e9c)
 </details>  
 
 
