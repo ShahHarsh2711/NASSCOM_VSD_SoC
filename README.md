@@ -66,76 +66,65 @@ PCB Board is developed based on below given overview of the schematic. So let's 
 ## Day 2: Good & bad Floorplanning and Introduction to Standard Cells  
 <details>
  <summary>
-   Get familiar with open-source EDA Tool (OpenLANE) </summary>  
+  Chip Floor planning considerations </summary>  
 </details>
 <details>
  <summary>
-   Get familiar with open-source EDA Tool (OpenLANE) </summary>  
+   Library Binding and Placement </summary>  
 </details>
 <details>
  <summary>
-   Get familiar with open-source EDA Tool (OpenLANE) </summary>  
+   Cell design and characterization flow </summary>  
 </details>
 <details>
  <summary>
-   Get familiar with open-source EDA Tool (OpenLANE) </summary>  
+   General timing characterization parameters </summary>  
 </details>
 
 ## Day 3: Design library cell using Magic Layout and ngspice characterization
 <details>
  <summary>
-   Get familiar with open-source EDA Tool (OpenLANE) </summary>  
+   Labs for CMOS inverter ngspice simulations </summary>  
 </details>
 <details>
  <summary>
-   Get familiar with open-source EDA Tool (OpenLANE) </summary>  
+    Inception of Layout of CMOS fabrication process </summary>  
 </details>
 <details>
  <summary>
-   Get familiar with open-source EDA Tool (OpenLANE) </summary>  
+    Sky130 Tech File Labs </summary>  
 </details>
 
 ## Day 4: Pre-layout timing analysis and importance of good clock tree 
 <details>
  <summary>
-   Get familiar with open-source EDA Tool (OpenLANE) </summary>  
+   Timing modelling using delay tables </summary>  
 </details>
 <details>
  <summary>
-   Get familiar with open-source EDA Tool (OpenLANE) </summary>  
+    Timing analysis with ideal clocks using openSTA </summary>  
 </details>
 <details>
  <summary>
-   Get familiar with open-source EDA Tool (OpenLANE) </summary>  
+   Clock tree synthesis TritonCTS and signal integrity </summary>  
 </details>
 <details>
  <summary>
-   Get familiar with open-source EDA Tool (OpenLANE) </summary>  
+  Timing analysis with real clocks using openSTA </summary>  
 </details>
-<details>
- <summary>
-   Get familiar with open-source EDA Tool (OpenLANE) </summary>  
-</details>
-
 
 ## Day 5: Final steps for RTL2GDS using tritonRoute and openSTA
 <details>
  <summary>
-   Get familiar with open-source EDA Tool (OpenLANE) </summary>  
+   Routing and design rule check (DRC) </summary>  
 </details>
 <details>
  <summary>
-   Get familiar with open-source EDA Tool (OpenLANE) </summary>  
+   Power Distribution Network and routing </summary>  
 </details>
 <details>
  <summary>
-   Get familiar with open-source EDA Tool (OpenLANE) </summary>  
+   TritonRoute Features </summary>  
 </details>
 <details>
- <summary>
-   Get familiar with open-source EDA Tool (OpenLANE) </summary>  
-</details>
-<details>
- <summary>
-   Get familiar with open-source EDA Tool (OpenLANE) </summary>  
-</details>
+
