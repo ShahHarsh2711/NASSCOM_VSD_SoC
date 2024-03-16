@@ -26,6 +26,7 @@
 <details>
  <summary>
    SoC Design and ASIC Flow </summary>  
+   
 - As we seen earlier the overview of the SoC design, the first part is RISC-V Instructions Set Architeture. Before explaining what is RISC-V? Let's we try to understand where it is used in Real life?  
 - Let's we see the computer interms of hardware point of view. Below is the image of Arduino Leonardo Board. The funtionality of computer and arduino is quite similar, So Let's dig into the hardware and try to understand the importante role of RISC-V Architecture.
 ![image](https://github.com/ShahHarsh2711/NASSCOM_VSD_SoC/assets/100216184/93a26894-e9de-4554-b58c-87c2e8f8835d)
