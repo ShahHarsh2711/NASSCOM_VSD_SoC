@@ -12,4 +12,9 @@
 
 ![image](https://github.com/ShahHarsh2711/NASSCOM_VSD_SoC/assets/100216184/fee221b5-264b-4577-9ea9-baa3e8f8410c)
 
+It requires "System software" which contains OS, Compiler & Assembler. Where OS provides efficient environment to compiler & Assembler to talk to the hardware. First of all, the application which is nothing but a task that we want to perform through the computer is written in Higher level languages such as C,C++. And then it is passing through the compiler, which produces **.exe file** (in case of Windows OS). **.exe file** contains the instruction which is understand by the assembler. This sets of instructions are  which is also known as assembly language. After passing through the assembler, the instructions are converted into the form of 0's & 1's.
+
+Below is the illusatration of timer application.  
+![image](https://github.com/ShahHarsh2711/NASSCOM_VSD_SoC/assets/100216184/86cfc996-ec8f-4e86-a2d4-681cefaad441)
+
 </details>  
