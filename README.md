@@ -64,4 +64,78 @@ PCB Board is developed based on below given overview of the schematic. So let's 
 </details>
 
 ## Day 2: Good & bad Floorplanning and Introduction to Standard Cells  
+<details>
+ <summary>
+   Get familiar with open-source EDA Tool (OpenLANE) </summary>  
+</details>
+<details>
+ <summary>
+   Get familiar with open-source EDA Tool (OpenLANE) </summary>  
+</details>
+<details>
+ <summary>
+   Get familiar with open-source EDA Tool (OpenLANE) </summary>  
+</details>
+<details>
+ <summary>
+   Get familiar with open-source EDA Tool (OpenLANE) </summary>  
+</details>
 
+## Day 3: Good & bad Floorplanning and Introduction to Standard Cells  
+<details>
+ <summary>
+   Get familiar with open-source EDA Tool (OpenLANE) </summary>  
+</details>
+<details>
+ <summary>
+   Get familiar with open-source EDA Tool (OpenLANE) </summary>  
+</details>
+<details>
+ <summary>
+   Get familiar with open-source EDA Tool (OpenLANE) </summary>  
+</details>
+
+## Day 4: Good & bad Floorplanning and Introduction to Standard Cells  
+<details>
+ <summary>
+   Get familiar with open-source EDA Tool (OpenLANE) </summary>  
+</details>
+<details>
+ <summary>
+   Get familiar with open-source EDA Tool (OpenLANE) </summary>  
+</details>
+<details>
+ <summary>
+   Get familiar with open-source EDA Tool (OpenLANE) </summary>  
+</details>
+<details>
+ <summary>
+   Get familiar with open-source EDA Tool (OpenLANE) </summary>  
+</details>
+<details>
+ <summary>
+   Get familiar with open-source EDA Tool (OpenLANE) </summary>  
+</details>
+
+
+## Day 5: Good & bad Floorplanning and Introduction to Standard Cells  
+<details>
+ <summary>
+   Get familiar with open-source EDA Tool (OpenLANE) </summary>  
+</details>
+<details>
+ <summary>
+   Get familiar with open-source EDA Tool (OpenLANE) </summary>  
+</details>
+<details>
+ <summary>
+   Get familiar with open-source EDA Tool (OpenLANE) </summary>  
+</details>
+<details>
+ <summary>
+   Get familiar with open-source EDA Tool (OpenLANE) </summary>  
+</details>
+<details>
+ <summary>
+   Get familiar with open-source EDA Tool (OpenLANE) </summary>  
+</details>
