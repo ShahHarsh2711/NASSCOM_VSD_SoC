@@ -19,5 +19,6 @@ Below is the illusatration of timer application.
 
 ![image](https://github.com/ShahHarsh2711/NASSCOM_VSD_SoC/assets/100216184/cef1ab85-4e15-4ecf-a9c5-94325d6a9ee0)
 
+![image](https://github.com/ShahHarsh2711/NASSCOM_VSD_SoC/assets/100216184/5aa840a2-efb3-4b6e-adc1-f6b9995c5ed2)
 
 </details>  
