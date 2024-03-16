@@ -34,4 +34,12 @@
 - Let's we see the computer interms of hardware point of view. Below is the image of Arduino Leonardo Board.  
 ![image](https://github.com/ShahHarsh2711/NASSCOM_VSD_SoC/assets/100216184/93a26894-e9de-4554-b58c-87c2e8f8835d)
 
+![image](https://github.com/ShahHarsh2711/NASSCOM_VSD_SoC/assets/100216184/909bf4e1-7449-4773-8889-1428c9c1bea8)
+
+![image](https://github.com/ShahHarsh2711/NASSCOM_VSD_SoC/assets/100216184/b5a5646e-f1f8-4197-a755-51e2b9817e25)
+
+![image](https://github.com/ShahHarsh2711/NASSCOM_VSD_SoC/assets/100216184/8d021aa6-86cd-475e-ba69-b7ea4c211714)
+![image](https://github.com/ShahHarsh2711/NASSCOM_VSD_SoC/assets/100216184/7c22962a-9fb4-427a-8dde-090206076aef)
+![image](https://github.com/ShahHarsh2711/NASSCOM_VSD_SoC/assets/100216184/72b6351a-e529-4564-904f-a31d9e0be754)
+
 </details>
