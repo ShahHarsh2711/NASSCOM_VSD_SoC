@@ -85,6 +85,7 @@ PCB Board is developed based on below given overview of the schematic. So let's 
 </details>
 
 - **Conclusion:**
+---
 
 ## Day 3: Design library cell using Magic Layout and ngspice characterization
 <details>
@@ -101,6 +102,7 @@ PCB Board is developed based on below given overview of the schematic. So let's 
 </details>
 
 - **Conclusion:**
+---
 
 ## Day 4: Pre-layout timing analysis and importance of good clock tree 
 <details>
@@ -121,6 +123,7 @@ PCB Board is developed based on below given overview of the schematic. So let's 
 </details>
 
 - **Conclusion:**
+---
 
 ## Day 5: Final steps for RTL2GDS using tritonRoute and openSTA
 <details>
