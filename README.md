@@ -64,6 +64,7 @@ PCB Board is developed based on below given overview of the schematic. So let's 
 </details>  
 
 - **Conclusion:**
+---
 
 ## Day 2: Good & bad Floorplanning and Introduction to Standard Cells  
 <details>
