@@ -1,6 +1,6 @@
 # NASSCOM_VSD_SoC_Workshop
 > Documentary of 5 Days workshop "Digital VLSI SoC Design and Planning" conducted by VSD &amp; NASSCOM
-
+--
 ## Day 1: Inception of open-source EDA tool OpenLANE & Sky130 PDK  
    As per the title the 1st day is to give glimps of Complete Digital VLSI SoC Design and Planning & how we can do this everything by the help of **EDA tool** and the most important thing which is the *blood* of the complete design is **Sky130 PDK**.  
    This day is further devided in 3 major parts.  
